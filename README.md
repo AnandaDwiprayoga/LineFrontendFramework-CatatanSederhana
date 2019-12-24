@@ -1,4 +1,5 @@
-# LineFrontendFramework-CatatanSederhana
+# Catatan Sederhana
+## Using LIFF
 
 this app just simple crud using LIFF Api
 <br>
